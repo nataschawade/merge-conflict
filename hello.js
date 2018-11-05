@@ -1,1 +1,1 @@
-console.log("Hello loony people")
+console.log("Hello itc people")
