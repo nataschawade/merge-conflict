@@ -1,1 +1,1 @@
-console.log("Hello beautiful people")
+console.log("Hello crazy people")
